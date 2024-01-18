@@ -1,0 +1,1 @@
+Albisoft is an e-commerce application representing an online store selling electronic goods
